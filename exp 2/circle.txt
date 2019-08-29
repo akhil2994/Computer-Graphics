@@ -1,0 +1,4 @@
+1.Bres circle results in much more smoother circle as compared to midpt circle
+2.in mid pt decision param depends upon previous decision param and sorresponding pixels
+3.in bres decision param only depends upon previous decision paraam
+4.bress and circle uses int values whereas dda use float values.

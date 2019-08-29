@@ -1,0 +1,6 @@
+1.Bres is faster line drwng algo compared to dda as it uses int values.
+2.Bres is efficient as compared to dda
+3.chances of errors r more due to rounding off
+4.ceil:8.6=9, floor:8.2=8
+5.dda is time consuming
+6.gentle slope:m<1 or Dx>Dy
